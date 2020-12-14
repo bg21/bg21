@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bg21" alt="bg21" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, react-native, game maker2**
+- 🌱 I’m currently learning **javascript, react-native, game maker2, firebase, mongodb**
 
 - 📝 I regularly write articles on [https://www.mundodaprogramacao.com.br/blog](https://www.mundodaprogramacao.com.br/blog)
 
