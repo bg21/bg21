@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **javascript, react-native, game maker2, firebase, mongodb**
 
 - 📝 I regularly write articles on [https://www.mundodaprogramacao.com.br/blog](https://www.mundodaprogramacao.com.br/blog)
+- Itch: https://devbg21.itch.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
